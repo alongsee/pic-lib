@@ -1,2 +1,2 @@
-# pic-lib
+# piclib
 图床
